@@ -1,0 +1,54 @@
+[33mcommit d030c2afb0370875764d5430b5eb9699489a1790[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/dev[m[33m, [m[1;32mmaster[m[33m)[m
+Author: 1jayanth <jayeesk@gmail.com>
+Date:   Thu Aug 26 15:27:11 2021 +0530
+
+    a updated
+
+[33mcommit 859ed4fdeba3e21ba92c980e790ee34cff6ceace[m
+Merge: dc15083 4c642c1
+Author: 1jayanth <jayeesk@gmail.com>
+Date:   Thu Aug 26 13:49:09 2021 +0530
+
+    Merge branch 'dev' of https://github.com/1jayanth/practice
+
+[33mcommit dc150830a43f307732ef6dc36fef20cde6201f45[m
+Author: 1jayanth <jayeesk@gmail.com>
+Date:   Thu Aug 26 13:47:53 2021 +0530
+
+    b-1-2 updated
+
+[33mcommit 4c642c161a287950ea3487c363ade1de8076c46a[m
+Author: 1jayanth <jayeesk@gmail.com>
+Date:   Thu Aug 26 13:45:14 2021 +0530
+
+    b-2 updated
+
+[33mcommit 2cfa60662b7d9b2278ea82381ea383214e3ed993[m
+Author: 1jayanth <jayeesk@gmail.com>
+Date:   Thu Aug 26 13:40:29 2021 +0530
+
+    b updated
+
+[33mcommit 73a32fedfd05273a4ff232ff61a736732e70217d[m
+Author: 1jayanth <jayeesk@gmail.com>
+Date:   Thu Aug 26 13:37:17 2021 +0530
+
+    merge conflict
+
+[33mcommit 5779be27cfa8a1a6f5697fe94a7f683b5695d209[m
+Author: 1jayanth <jayeesk@gmail.com>
+Date:   Thu Aug 26 13:19:46 2021 +0530
+
+    c-updated
+
+[33mcommit 8121a602b64a22e32bb92ac9c1e09865cf7f87f9[m
+Author: 1jayanth <jayeesk@gmail.com>
+Date:   Thu Aug 26 12:17:13 2021 +0530
+
+    c-added
+
+[33mcommit e14e9216987a27bf88142517a543a37f5c5eed50[m
+Author: jay <jayeesk@gmail.com>
+Date:   Thu Aug 26 11:51:36 2021 +0530
+
+    initial
